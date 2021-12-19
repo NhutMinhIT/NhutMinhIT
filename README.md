@@ -1,4 +1,4 @@
-### Xin chào, Chào mừng đến với Hồ sơ của tôi! ![NhutMinh git](https://user-images.githubusercontent.com/90835621/146675889-48f377fa-f191-407a-83b3-9488ebe75850.gif)
+### Xin chào, Chào mừng đến với Hồ sơ của tôi! https://thuthuatnhanh.com/wp-content/uploads/2020/09/hinh-nen-dong-powerpoint-dep-1.gif
 
  
 ###                                       "khó khăn, vấp ngã tạo nên sự bền vững trong tương lai"
