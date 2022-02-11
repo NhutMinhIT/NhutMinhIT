@@ -16,7 +16,7 @@
    
 ## Personal information.
 | Name | Phone | Email| 
-|--------------|-------|------| ___
+|--------------|-------|------|
 | Nguyen Nhut Minh| 0382694825 |nhutminh.fpt@gmai.com | 
  ___
  
