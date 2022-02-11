@@ -5,10 +5,12 @@
  #### "Khó khăn, vấp ngã tạo nên sự bền vững trong tương lai"
   ___
 
-### Ngôn Ngữ
+## Ngôn Ngữ
+### Frontend :
    - HTML5
    - CSS3
    - Javascript
-   
+### Backend:
+   - JSP + Servlet
    ___
 	
