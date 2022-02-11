@@ -13,6 +13,8 @@
 ### Backend:
    - JSP + Servlet
    ___
-|Name|Email|Phone|Address| <====== This is the heading of the table
-|----|-----|-------|-------| <====== This is the separator.
-|Nguyen Nhut Minh|nhutminh.fpt@gmail.com|0382694825|Ho Chi Minh, Viet Nam|  <=== This is the table body.
+| Cột 1 Hàng 1 | Cột 2 | Cột 3| Cột 4 |
+|--------------|-------|------|-------|
+| Hàng 2 | 2 x 1 | 2 x 2 | 2 x 3 | 2 x 4 |
+| Hàng 3 | 3 x 1 | 3 x 2 | 3 x 3 | 3 x 4 |
+| Hàng 4 | 4 x 1 | 4 x 2 | 4 x 3 | 4 x 4 |
