@@ -13,6 +13,6 @@
 ### Backend:
    - JSP + Servlet
    ___
-|Name|Email|Phone|Address|
-|----|-----|-------||-------|
-|Nguyen Nhut Minh|nhutminh.fpt@gmail.com|0382694825|Ho Chi Minh, Viet Nam| 
+|Name|Email|Phone|Address| <====== This is the heading of the table
+|----|-----|-------|-------| <====== This is the separator.
+|Nguyen Nhut Minh|nhutminh.fpt@gmail.com|0382694825|Ho Chi Minh, Viet Nam|  <=== This is the table body.
