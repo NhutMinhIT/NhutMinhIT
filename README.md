@@ -10,7 +10,7 @@
  * Information Technology - Software Engineer
  ## Contact:
    - Mail: nhutminh.fpt@gmail.com
-   - Phone: 0382694825
+   - Phone: 03826*****
    - Github: https://github.com/FPTnhutminh00/FPTnhutminh00
    - Address: Quận 9, TP.HCM
    - Facebook: https://www.facebook.com/minhit.fptu19
