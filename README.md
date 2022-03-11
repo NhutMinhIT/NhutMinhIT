@@ -46,5 +46,6 @@
 ## CERTIFICATES:
 * Web Design for Everybody: Basics of Web Development & Coding (Cousera) - 09/10/2021
  Link : https://coursera.org/share/26cc181af6058c5c7c1104a1a0d644c1
+* Chứng chỉ tiếng anh- TRS601 - English 6 (FPT Univercity) - 2021
 ## Extracurricular Activities:
 * Second prize of F'Voice contest Fall 2020 (October 23, 2020).
