@@ -5,9 +5,9 @@
  ### "Khó khăn, vấp ngã tạo nên sự bền vững trong tương lai"
   ___
   
-# Name Nguyễn Nhựt Minh
+# Name : Nguyễn Nhựt Minh - Birthday: 16/01/2001
  ## Specialized:
- - Information Technology - Software Engineer
+ * Information Technology - Software Engineer
  ## Contact:
    - Mail: nhutminh.fpt@gmail.com
    - Phone: 0382694825
