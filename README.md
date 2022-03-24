@@ -43,13 +43,13 @@
 * Music
 * Reading Book
 ## Experience:
-- F-Learn
-  * This website is a website to learn basic web design, including HTML5, CSS3 languages. The site introduces users to programming tools, programming techniques (HTML and CSS tags and attributes) and web design.
-  * Source Code: https://github.com/FPTnhutminh00/F-Learn
+- ### F-Learn
+  - This website is a website to learn basic web design, including HTML5, CSS3 languages. The site introduces users to programming tools, programming techniques (HTML and CSS tags and attributes) and web design.
+  - Source Code: https://github.com/FPTnhutminh00/F-Learn
  
- - SpeedStyle Shop
-  * This is a website that allows shoppers to consult and choose for themselves the most suitable shoes, fit their personality and suit each individual's job. Saving more time instead of having to go to the store to choose products. The website allows store owners to manage the products they sell (revenue, order quantity, customer information) and web design. The target audience is young people from 12 to 35 years old.
-  * Source Code : https://github.com/FPTnhutminh00/SpeedStyle-Shop
+ - ### SpeedStyle Shop
+  - This is a website that allows shoppers to consult and choose for themselves the most suitable shoes, fit their personality and suit each individual's job. Saving more time instead of having to go to the store to choose products. The website allows store owners to manage the products they sell (revenue, order quantity, customer information) and web design. The target audience is young people from 12 to 35 years old.
+  - Source Code : https://github.com/FPTnhutminh00/SpeedStyle-Shop
 ## CERTIFICATES:
 * Web Design for Everybody: Basics of Web Development & Coding (Cousera) - 09/10/2021
  Link : https://coursera.org/share/26cc181af6058c5c7c1104a1a0d644c1
