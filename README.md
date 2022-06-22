@@ -57,14 +57,9 @@
      <a href="https://reactjs.org" target="_blank"> 
     <img alt="React" src="https://img.shields.io/badge/-ReactJS-blue?style=flat&logo=react&logoColor=white"/>
   </a>                                                                                                                             
-  &emsp;
-     <a href="https://redux.org" target="_blank"> 
-    <img alt="Redux" src="https://img.shields.io/badge/-Redux-green?style=flat&logo=redux&logoColor=white"/>
-  </a>      
-   &emsp;
-     <a href="https://vuejs.org/" target="_blank"> 
-    <img alt="Vue" src="https://img.shields.io/badge/-Vuejs-brightgreen?style=flat&logo=vue&logoColor=white"/>
-												      </a>                                                                                                            
+ 
+       
+   &emsp;                                                                                                               
 </p>
 
 ### 👉 Databases & Cloud Hosting
