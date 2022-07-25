@@ -3,7 +3,8 @@
 # Name : Nguyễn Nhựt Minh - Birthday: 16/01/2001
 
  
-[![NhutMinhIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NhutMinhIT&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)# Contact:
+[![NhutMinhIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NhutMinhIT&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) .
+# Contact:
    - Mail: nhutminh.it19@gmail.com 
    - Github: https://github.com/FPTnhutminh00/FPTnhutminh00
    - Address: Quận 9, TP.HCM
