@@ -1,6 +1,6 @@
 ###                                                  Hello, Welcome to My Profile! 
 
-[![!NhutMinhIT GitHub stats] https://github-readme-stats.vercel.app/api?username=NhutMinhIT&theme=merko&show_icons=true
+[!NhutMinhIT GitHub stats] https://github-readme-stats.vercel.app/api?username=NhutMinhIT&theme=merko&show_icons=true
   ___
   
 # Name : Nguyễn Nhựt Minh - Birthday: 16/01/2001
