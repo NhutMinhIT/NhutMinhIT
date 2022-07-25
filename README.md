@@ -1,10 +1,9 @@
 
   
 # Name : Nguyễn Nhựt Minh - Birthday: 16/01/2001
- ## Specialized:
- * Information Technology - Software Engineer
-[![NhutMinhIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NhutMinhIT&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
- ## Contact:
+
+ 
+[![NhutMinhIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NhutMinhIT&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)# Contact:
    - Mail: nhutminh.it19@gmail.com 
    - Github: https://github.com/FPTnhutminh00/FPTnhutminh00
    - Address: Quận 9, TP.HCM
@@ -77,32 +76,19 @@
 
  ### 👉 Software & Tools
  
-<p>
-  
-    <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
+<p>    
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Github" src="https://img.shields.io/badge/Github-000000.svg?logo=Github&logoColor=white"></a>													       
-<!--   &emsp;   
-    <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a> -->
-  &emsp;
+  &emsp;   
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-<!--   &emsp;
-    <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a> -->
   &emsp;
     <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
  &emsp;
     <a href="#"><img alt="NPM" src="https://img.shields.io/badge/-NPM-red?logo=NPM&logoColor=white"></a>									 
   &emsp;
-</p>
-
-<br/>
-
-
- 
- ___
- 
+</p> 
 ## EDUCATION:
  * FPT University HCM 9/2019 - Present
  Software Engineering 
@@ -115,18 +101,5 @@
 ## Language:
   * English : Basic 
   * Japanese: Basic
-
-## Experience:
- ### F-Learn
-  - This website is a website to learn basic web design, including HTML5, CSS3 languages. The site introduces users to programming tools, programming techniques (HTML and CSS tags and attributes) and web design.
-  - Source Code: https://github.com/FPTnhutminh00/F-Learn 
-  ### SpeedStyle Shop
-  - This is a website that allows shoppers to consult and choose for themselves the most suitable shoes, fit their personality and suit each individual's job. Saving more time instead of having to go to the store to choose products. The website allows store owners to manage the products they sell (revenue, order quantity, customer information) and web design. The target audience is young people from 12 to 35 years old.
-  - Source Code : https://github.com/FPTnhutminh00/SpeedStyle-Shop
-## CERTIFICATES:
-* Web Design for Everybody: Basics of Web Development & Coding (Cousera) - 09/10/2021
- Link : https://coursera.org/share/26cc181af6058c5c7c1104a1a0d644c1
-* Chứng chỉ tiếng anh- TRS601 - English 6 (FPT Univercity) - 2021
-https://fap.fpt.edu.vn/Report/Awa.aspx?id=40E%2bbViHVyU%3d
 ## Extracurricular Activities:
 * Second prize of F'Voice contest Fall 2020 (October 23, 2020).
