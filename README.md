@@ -3,7 +3,7 @@
 # Name : Nguyễn Nhựt Minh - Birthday: 16/01/2001
 
  
-[![NhutMinhIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NhutMinhIT&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) .
+[![NhutMinhIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NhutMinhIT&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
 # Contact:
    - Mail: nhutminh.it19@gmail.com 
    - Github: https://github.com/FPTnhutminh00/FPTnhutminh00
@@ -13,9 +13,7 @@
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
-
-<p align="left">   
-  
+<p align="left"> 
   &emsp;
    <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?logo=java&logoColor=white">
@@ -44,9 +42,7 @@
   &emsp;
      <a href="https://reactjs.org" target="_blank"> 
     <img alt="React" src="https://img.shields.io/badge/-ReactJS-blue?style=flat&logo=react&logoColor=white"/>
-  </a>                                                                                                                             
- 
-       
+  </a> 
    &emsp;                                                                                                               
 </p>
 
@@ -57,7 +53,6 @@
      &emsp;    
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
   &emsp;
-   
   
 ### 👉Graphic Designing
 <p align="left">
@@ -75,8 +70,7 @@
   </a>
  </p>
 
- ### 👉 Software & Tools
- 
+ ### 👉 Software & Tools 
 <p>    
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
@@ -90,6 +84,8 @@
     <a href="#"><img alt="NPM" src="https://img.shields.io/badge/-NPM-red?logo=NPM&logoColor=white"></a>									 
   &emsp;
 </p> 
+<br>
+
 ## EDUCATION:
  * FPT University HCM 9/2019 - Present
  Software Engineering 
