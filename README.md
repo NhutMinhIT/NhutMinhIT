@@ -1,10 +1,9 @@
-https://github-readme-stats.vercel.app/api?username=NhutMinhIT&theme=merko&show_icons=true
 
-___
   
 # Name : Nguyễn Nhựt Minh - Birthday: 16/01/2001
  ## Specialized:
  * Information Technology - Software Engineer
+[![!AvilXx's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvilXx&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats).
  ## Contact:
    - Mail: nhutminh.it19@gmail.com 
    - Github: https://github.com/FPTnhutminh00/FPTnhutminh00
