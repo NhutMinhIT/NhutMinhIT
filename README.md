@@ -1,16 +1,13 @@
 ###                                                  Hello, Welcome to My Profile! 
 
-![xinchao](https://user-images.githubusercontent.com/90835621/146675973-20c426b6-8fb6-4d1d-a47c-6639746101ba.gif)
-
- ### "Khó khăn, vấp ngã tạo nên sự bền vững trong tương lai "
+https://github-readme-stats.vercel.app/api?username=NhutMinhIT&theme=merko&show_icons=true
   ___
   
 # Name : Nguyễn Nhựt Minh - Birthday: 16/01/2001
  ## Specialized:
  * Information Technology - Software Engineer
  ## Contact:
-   - Mail: nhutminh.fpt@gmail.com
-   - Phone: 03826*****
+   - Mail: nhutminh.it19@gmail.com 
    - Github: https://github.com/FPTnhutminh00/FPTnhutminh00
    - Address: Quận 9, TP.HCM
    - Facebook: https://www.facebook.com/minhit.fptu19
@@ -71,12 +68,10 @@
   &emsp; -->
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white">     </a>
      &emsp;
-    <a href="https://www.mongodb.com/"><img alt="mongodb" src="https://img.shields.io/badge/-MongoDB-green?logo=Monggo&logoColor=white"></a>  
-  &emsp;
+    
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
   &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
- </p>
+   
   
 ### 👉Graphic Designing
 <p align="left">
@@ -105,19 +100,13 @@
  ### 👉 Software & Tools
  
 <p>
-  &emsp;
-    <a href="#"><img alt="Adobe" src="https://img.shields.io/badge/Adobe%20-%23FF0000.svg?logo=adobe&logoColor=white"></a>
-<!--   &emsp;
-    <a href="#"><img alt="Colab" src="https://img.shields.io/badge/Colab-00b56a.svg?logo=google-colab&logoColor=white"></a> -->
-  &emsp;
+  
     <a href="#"><img alt="Codepen" src="https://img.shields.io/badge/Codepen-000000.svg?logo=codepen&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
     <a href="#"><img alt="Github" src="https://img.shields.io/badge/Github-000000.svg?logo=Github&logoColor=white"></a>													       
-<!--   &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a> -->
-<!--   &emsp;
+<!--   &emsp;   
     <a href="#"><img alt="Google Sheets" src="https://img.shields.io/badge/Google%20Sheets%20-%2334A853.svg?logo=google%20sheets&logoColor=white"></a> -->
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
@@ -147,16 +136,12 @@
  receive this title.
 ## Language:
   * English : Basic 
-  * Japanese: Basic 
-## HOBBIES:
-* Sports
-* Music
-* Reading Book
+  * Japanese: Basic
+
 ## Experience:
  ### F-Learn
   - This website is a website to learn basic web design, including HTML5, CSS3 languages. The site introduces users to programming tools, programming techniques (HTML and CSS tags and attributes) and web design.
-  - Source Code: https://github.com/FPTnhutminh00/F-Learn
- 
+  - Source Code: https://github.com/FPTnhutminh00/F-Learn 
   ### SpeedStyle Shop
   - This is a website that allows shoppers to consult and choose for themselves the most suitable shoes, fit their personality and suit each individual's job. Saving more time instead of having to go to the store to choose products. The website allows store owners to manage the products they sell (revenue, order quantity, customer information) and web design. The target audience is young people from 12 to 35 years old.
   - Source Code : https://github.com/FPTnhutminh00/SpeedStyle-Shop
