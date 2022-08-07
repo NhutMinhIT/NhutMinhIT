@@ -5,7 +5,7 @@
  
 [![NhutMinhIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NhutMinhIT&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
 # Contact:
-   - Mail: nhutminh.it19@gmail.com 
+   - Gmail: nhutminh.it19@gmail.com 
    - Github: https://github.com/NhutMinhIT
    - Address: Quận 9, TP.HCM
    - Facebook: https://www.facebook.com/minhit19
