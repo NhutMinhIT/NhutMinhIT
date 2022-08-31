@@ -3,7 +3,7 @@
 # Name : Nguyễn Nhựt Minh - Birthday: 16/01/2001
 
  
-[![NhutMinhIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NhutMinhIT&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
+[![NhutMinhIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NhutMinhIT&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 # Contact:
    - Gmail: nhutminh.it19@gmail.com 
    - Github: https://github.com/NhutMinhIT
