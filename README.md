@@ -9,6 +9,7 @@
    - Github: https://github.com/NhutMinhIT
    - Address: Quận 9, TP.HCM
    - Facebook: https://www.facebook.com/minhit19
+   - 🚀 Pair Extraordinaire.
  ___
 ## 🛠️ My Skills
 
