@@ -44,11 +44,18 @@
      <a href="https://reactjs.org" target="_blank"> 
     <img alt="React" src="https://img.shields.io/badge/-ReactJS-blue?style=flat&logo=react&logoColor=white"/>
   </a> 
-   &emsp;                                                                                                               
+   &emsp;   
+  <a href="https://angular.io" target="_blank"> 
+  <img alt="Angular" src="https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&logoColor=white"/>
+</a>
+     &emsp;   
+<a href="https://reactnative.dev" target="_blank"> 
+  <img alt="React Native" src="https://img.shields.io/badge/-React_Native-green?style=flat&logo=react&logoColor=white"/>
+</a>
 </p>
 
  ### 👉 Software & Tools 
-<p>    
+<p align="left">    
   &emsp;
     <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git%20-%23F05033.svg?logo=git&logoColor=white"></a>
   &emsp;
