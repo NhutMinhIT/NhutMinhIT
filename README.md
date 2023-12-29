@@ -52,7 +52,7 @@
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white">     </a>
      &emsp;    
-    <a href="https://www.heroku.com/"><img alt="Azure" src="[https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fvi.wikipedia.org%2Fwiki%2FT%25E1%25BA%25ADp_tin%3AMicrosoft_Azure.svg&psig=AOvVaw2ITAH6Jy2SUY0HpGxiBczK&ust=1703908211469000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDl6_Des4MDFQAAAAAdAAAAABAI)"></a>  
+    <a href="https://www.heroku.com/"><img alt="Azure" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Microsoft_Azure.svg/2048px-Microsoft_Azure.svg.png"></a>  
   &emsp;
   
 ### 👉Graphic Designing
