@@ -55,15 +55,17 @@
 </p>
 
 ### 👉 Backend Development
+<p align="left"> 
 &emsp;   
-<a href="https://nodejs.org" target="_blank"> 
+  <a href="https://nodejs.org" target="_blank"> 
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white"/>
 </a>
 &emsp;   
 <a href="https://expressjs.com" target="_blank"> 
   <img alt="Express.js" src="https://img.shields.io/badge/-Express.js-lightgrey?style=flat&logo=express&logoColor=white"/>
 </a>
-&emsp;   
+</p>
+   
  ### 👉 Software & Tools 
 <p align="left">    
   &emsp;
