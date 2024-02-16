@@ -9,7 +9,7 @@
    - Gmail: nhutminh.it19@gmail.com 
    - Github: https://github.com/NhutMinhIT
    - Address: Quận 9, TP.HCM
-   - Facebook: https://www.facebook.com/minhit19
+   - Facebook: [https://www.facebook.com/minhit19](https://www.facebook.com/minhit.fptu19)
    - 🚀 Pair Extraordinaire.
  ___
 ## 🛠️ My Skills
