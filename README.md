@@ -4,7 +4,8 @@
 
  
 [![NhutMinhIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NhutMinhIT&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
-https://github-readme-stats.vercel.app/api/top-langs/?username=NhutMinhIT&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NhutMinhIT&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # Contact:
    - Gmail: nhutminh.it19@gmail.com 
    - Github: https://github.com/NhutMinhIT
