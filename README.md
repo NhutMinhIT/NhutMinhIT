@@ -5,7 +5,6 @@
  
 [![NhutMinhIT GitHub stats](https://github-readme-stats.vercel.app/api?username=NhutMinhIT&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NhutMinhIT&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # Contact:
    - Gmail: nhutminh.it19@gmail.com 
    - Github: https://github.com/NhutMinhIT
@@ -46,10 +45,7 @@
      <a href="https://reactjs.org" target="_blank"> 
     <img alt="React" src="https://img.shields.io/badge/-ReactJS-blue?style=flat&logo=react&logoColor=white"/>
   </a> 
-   &emsp;   
-  <a href="https://angular.io" target="_blank"> 
-  <img alt="Angular" src="https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&logoColor=white"/>
-</a>
+   &emsp; 
 &emsp;   
 <a href="https://reactnative.dev" target="_blank"> 
   <img alt="React Native" src="https://img.shields.io/badge/-React_Native-green?style=flat&logo=react&logoColor=white"/>
