@@ -83,7 +83,6 @@
 ## EDUCATION:
  * FPT University HCM 9/2019 - 12/2023
  Bachelor Software Engineering 
- * GPA: 7.2/10
 ## ACHIEVEMENTS:
  * Honorable Student Of The Semester 
  Students with GPA higher than 8.0 after 
