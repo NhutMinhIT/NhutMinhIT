@@ -16,11 +16,9 @@
 
 ### 👉 Programming languages
 <p align="left"> 
-  &emsp;
    <a href="https://www.typescriptlang.org" target="_blank"> 
     <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-%23007396.svg?logo=typesctipt&logoColor=white">
   </a>
-  &emsp;
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
