@@ -78,16 +78,4 @@
 </p> 
 <br>
 
-## EDUCATION:
- * FPT University HCM 9/2019 - 12/2023
- Bachelor Software Engineering 
-## ACHIEVEMENTS:
- * Honorable Student Of The Semester 
- Students with GPA higher than 8.0 after 
- a semester at FPT University would 
- receive this title.
-## Language:
-  * English : Basic 
-  * Japanese: Basic
-## Extracurricular Activities:
-* Second prize of F'Voice contest Fall 2020 (October 23, 2020).
+[![trophy](https://github-profile-trophy.vercel.app/?username=NhutMinhIT)](https://github.com/NhutMinhIT/github-profile-trophy)
