@@ -5,26 +5,28 @@ Software Engineer • Full Stack Developer • AI Application Enthusiast
 </p>
 
 <p align="center">
-Building scalable applications with modern web technologies and AI-powered solutions.
+Building scalable software, cloud-native applications, and AI-powered solutions.
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm a **Software Engineer** with over **3 years of experience** building enterprise and customer-facing applications across ERP, MIS, CMS, Recruitment, E-Sign, Logistics, and E-commerce domains.
+I'm a **Software Engineer** with **3+ years of experience** building enterprise and customer-facing applications across **ERP, MIS, CMS, Recruitment, E-Sign, Logistics, and E-commerce** domains.
 
-My expertise spans **Frontend, Backend, Cloud, and AI integration**, with a strong focus on designing maintainable architectures and delivering high-quality software.
+I specialize in designing scalable web applications, developing modern backend services, and integrating AI capabilities into real-world business systems.
 
-I enjoy solving complex engineering problems, improving system performance, and integrating AI capabilities into business applications.
+I'm passionate about software architecture, clean engineering practices, performance optimization, and building products that deliver long-term business value.
 
-### What I focus on
+### Areas of Interest
 
-- 🏗 Designing scalable system architectures
-- 🚀 Building high-performance web applications
-- 🔗 Developing secure RESTful APIs
-- 🤖 Integrating AI into existing business workflows
-- 📚 Continuously learning modern technologies and software design principles
+- 🏗 Software Architecture
+- ⚡ Backend Engineering
+- 🌐 Full Stack Development
+- ☁ Cloud-native Applications
+- 🤖 AI-powered Business Solutions
+- 🚀 Performance Optimization
+- 📚 Continuous Learning
 
 ---
 
@@ -47,13 +49,13 @@ I enjoy solving complex engineering problems, improving system performance, and 
 - Node.js
 - NestJS
 - FastAPI (Python)
-- RESTful APIs
 - Express.js
+- RESTful APIs
 
 ### Database
 
-- Microsoft SQL Server
 - PostgreSQL
+- Microsoft SQL Server
 - MongoDB
 
 ### Cloud & DevOps
@@ -66,20 +68,20 @@ I enjoy solving complex engineering problems, improving system performance, and 
 ### AI & Intelligent Applications
 
 - Vertex AI
-- Gemini Models
+- Gemini
 - Document AI
 - Prompt Engineering
-- AI-powered Backend Services
-- LLM Integration
 - Retrieval-Augmented Generation (RAG)
+- AI Agent Integration
+- AI-powered Backend Services
 
 ---
 
-## 📊 GitHub Statistics
+## 📈 GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NhutMinhIT&show_icons=true&theme=tokyonight" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhutMinhIT&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=NhutMinhIT&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NhutMinhIT&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -87,32 +89,20 @@ I enjoy solving complex engineering problems, improving system performance, and 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=NhutMinhIT&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=NhutMinhIT&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
-
----
-
-## 💼 Interests
-
-- Software Architecture
-- Distributed Systems
-- Backend Engineering
-- Cloud Computing
-- Artificial Intelligence
-- Performance Optimization
-- Developer Experience
 
 ---
 
 ## 📫 Connect with Me
 
-- 📧 **Email:** nhutminh.it19@gmail.com
-- 💻 **GitHub:** https://github.com/NhutMinhIT
-- 💼 **LinkedIn:** *(Add your LinkedIn profile)*
-- 🌐 **Facebook:** https://www.facebook.com/minhit.fptu19
+- 📧 Email: **nhutminh.it19@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/nhutminhit2001/**
+- 💻 GitHub: **https://github.com/NhutMinhIT**
+- 🌐 Facebook: **https://www.facebook.com/minhit.fptu19**
 
 ---
 
 <p align="center">
-<i>Building software that is scalable, maintainable, and delivers real business value.</i>
+<i>"Designing scalable software that creates real business impact."</i>
 </p>
